@@ -18,4 +18,14 @@ i will show how to use it over the internet.
 2. activate termroll
   - for color (for ANSI and RGB color capable terminals only):
     ```
+    wget 'https://github.com/kaslmineer7999/termroll/releases/download/termroll.files/rrc.txt' -qO-|pv -qL1000000
+    ```
+  - for B&W (supports any terminak):
+    ```
+    wget 'https://github.com/kaslmineer7999/termroll/releases/download/termroll.files/rr.txt' -qO-|pv -qL50000
+    ```
+3. you're done
+
+## why "termroll" exists
+because rickrolling your buddy is the best thing ever in planet earth
     
